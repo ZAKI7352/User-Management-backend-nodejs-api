@@ -12,7 +12,7 @@ ENCRYPTION_KEY=
 ENCRYPTION_IV=
 
 
-Dear Rahul Gupta,
+
 
 We hope you're doing well. As part of your technical assessment, we would like you to complete a task that will help us evaluate your skills in Node.js and React.js.
 
