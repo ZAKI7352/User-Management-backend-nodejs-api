@@ -14,7 +14,7 @@
         }
     },
     "keywords": [],
-    "author": "Rahul Gupta-Node.js Developer",
+    "author": "Zaki Shaikh-Node.js Developer",
     "license": "ISC",
     "dependencies": {
         "bcrypt": "^5.1.1",
