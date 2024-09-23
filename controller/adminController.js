@@ -148,7 +148,6 @@ exports.deleteProfilePicture = async (req, res, next) => {
 
         if (user.profilePic) {            
             user.profilePic = `https://avatar.iran.liara.run/public/boy?username=${user.name}`;
-            // "https://w7.pngwing.com/pngs/340/946/png-transparent-avatar-user-computer-icons-software-developer-avatar-child-face-heroes-thumbnail.png"||
             await user.save();
         }
 
