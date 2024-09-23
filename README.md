@@ -70,6 +70,5 @@ State Management: Use React hooks to maintain authentication state and UI behavi
 UI Framework: Use React Material UI or Tailwind CSS for styling the frontend.
 Submission Instructions:
 
-Please submit your solution by Sunday 15th September 2024 E.O.D. as a GitHub repository and create a netlify link to view the application, And also create a shorter video of running application and backend and send on wetransfer.
 
 We look forward to seeing your work. If you have any questions or need clarification on any part of the task, feel free to reach out.
